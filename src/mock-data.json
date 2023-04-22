@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "monthVisited": "November 5th, 2022",
+      "typeOfVisit": "Indoor Dining",
+      "title": "Wonderful Food ",
+      "review": "Amazing customer service and amazing food!!"
+    },
+    {
+      "id": 2,
+      "monthVisited": "October 8th, 2022",
+      "typeOfVisit": "Takeout",
+      "title": "Fast Service",
+      "review": "Exstremely fast service and fresh food, friendly quick service."
+    },
+    {
+      "id": 3,
+      "monthVisited": "January 21st, 2023",
+      "typeOfVisit": "Indoor Dining",
+      "title": "Birthday celebration",
+      "review": "I celebrated my birthday and everything went exactly as I hoped it would."
+    },
+    {
+      "id": 4,
+      "monthVisited": "March 19th, 2022",
+      "typeOfVisit": "Outdoor Dining",
+      "title": "Calamari was amazing",
+      "review": "We had the Calamari , and it was way better than expected!"
+    },
+    {
+      "id": 5,
+      "monthVisited": "June 27th, 2022",
+      "typeOfVisit": "Outdoor Dining",
+      "title": "Long wait",
+      "review": "We waited forever to be sat down but, it was worth the wait. Food was delicious"
+    }
+  ]
